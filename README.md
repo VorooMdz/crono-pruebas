@@ -1,1 +1,4 @@
-Cronómetro realizado con REACTJs https://voroomdz.github.io/crono-pruebas/
+# react-chronometer
+A simple chronometer built with React JS [http://fbarrailla.github.io/react-chronometer/](http://fbarrailla.github.io/react-chronometer/)
+
+![screenshot](./screenshot.png)
